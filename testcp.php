@@ -1,0 +1,1 @@
+<?php echo 'Docker CP test';?>
